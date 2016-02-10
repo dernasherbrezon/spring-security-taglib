@@ -1,9 +1,8 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.aerse</groupId>
 	<artifactId>spring-security-taglib</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 	<description>Spring security taglib as it should be</description>
 	<inceptionYear>2016</inceptionYear>
 	<url>https://github.com/dernasherbrezon/spring-security-taglib</url>
@@ -136,7 +135,7 @@
 		<url>https://github.com/dernasherbrezon/spring-security-taglib</url>
 		<connection>scm:git:git@github.com/dernasherbrezon/spring-security-taglib.git</connection>
 		<developerConnection>scm:git:https://github.com/dernasherbrezon/spring-security-taglib.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>spring-security-taglib-1.0</tag>
 	</scm>
 
 	<issueManagement>
